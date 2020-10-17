@@ -1,4 +1,4 @@
-# ElisApp
+# Broken Ticket Machine (German)
  Confusing Ticket Machine\
  **Only for Android devices**\
  \
